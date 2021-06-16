@@ -1,10 +1,10 @@
 # Who am I?
 - Hi, I’m Carlos Augusto. 
-- I'm student of the 5th semester of Computer Engineer in Federal University of Pará(Brazil)
 - I have a degree in Systems Analysis and Development by Federal Institute of Pará(Brazil)
+- I'm student of the 5th semester of Computer Engineer in Federal University of Pará(Brazil)
 - I’m interested in turn my self a Senior Programmer
 - I’m currently learning more about Python
-- I've already study PHP, Java and Java Mobile, JavaScript, C, C++, Html and Css.
+- I've already study PHP, Python, Java and Java Mobile, JavaScript, C, C++, Html and Css.
 - 📫 You contact me in my email: c.augusto.souza9@gmail.com
 
 # Experiences:
