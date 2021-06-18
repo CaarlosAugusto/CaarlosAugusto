@@ -5,7 +5,7 @@
 - I’m interested in turn my self a Senior Programmer
 - I’m currently learning more about Python
 - I've already study PHP, Python, Java and Java Mobile, JavaScript, C, C++, Html and Css.
-- 📫 You contact me in my email: c.augusto.souza9@gmail.com
+- 📫 You can contact me in my email: c.augusto.souza9@gmail.com
 
 # Experiences:
 - Nowadays I've worked with Web Scraping Project to Marine of Brazil to break patents. Unfortunately, I'm not authorized to postcode here.
