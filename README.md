@@ -8,8 +8,8 @@
 - 📫 You can contact me in my email: c.augusto.souza9@gmail.com
 
 # Experiences:
-- Nowadays I've worked with Web Scraping Project to DR. WARS LABORATORIES A EIRELI to break patents. Unfortunately, I'm not authorized to postcode here.
-- Besides this project, I developed interfaces with Framework Django, Html, Css and Bootstrap to the same project.
+- Nowadays I've worked with Web Scraping Project to DR. WARS LABORATORIES A EIRELI to develop web systems using libraries like Selenium, BeuatifulSoup and xlrd. Unfortunately, I'm not authorized to postcode here.
+- Besides this project, I developed interfaces with Framework Django, Html, Css, Bootstrap and JavaScript.
 - Certificated by Toefl in English Language
 
 <!---
