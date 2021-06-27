@@ -9,8 +9,8 @@
 
 # Experiences:
 - Nowadays I've worked with Web Scraping Project to DR. WARS LABORATORIES A EIRELI to develop web systems using libraries like Selenium, BeuatifulSoup and xlrd. Unfortunately, I'm not authorized to postcode here.
-- Besides this project, I developed interfaces with Framework Django, Html, Css, Bootstrap and JavaScript.
-- Certificated by Toefl in English Language
+- Besides this project, I developed interfaces with Django Framework, Html, Css, Bootstrap and JavaScript.
+- Certificated by Toefl in English Language - B1 in 2020.
 
 <!---
 CaarlosAugusto/CaarlosAugusto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
