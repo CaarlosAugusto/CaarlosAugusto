@@ -8,7 +8,7 @@
 - 📫 You can contact me in my email: c.augusto.souza9@gmail.com
 
 ## Experiences:
-- Nowadays I've worked with Web Scraping and Web Development project to DR. WARS LABORATORIES A EIRELI to develop web systems using libraries like Selenium, BeuatifulSoup and xlrd.
+- Nowadays I've worked with Selenium and Web Development project to DR. WARS LABORATORIES A EIRELI to develop web systems using libraries like Selenium, BeuatifulSoup and xlrd.
 - Experience in Django, Django Rest API.
 - Experience in services server and client with stream(socket).
 - Experience in FrontEnd devvelopment with Html, Css, Bootstrap and JavaScript.
