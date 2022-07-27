@@ -8,11 +8,12 @@
 - 📫 You can contact me in my email: c.augusto.souza9@gmail.com
 
 ## Experiences:
-- Nowadays I've worked with Selenium and Web Development project to DR. WARS LABORATORIES A EIRELI to develop web systems using libraries like Selenium, BeuatifulSoup and xlrd.
+- I work with development of automated web systems using libraries like Selenium, BeuatifulSoup and xlrd to genereta analytic data.
 - Experience in Django, Django Rest API.
-- Experience in services server and client with stream(socket).
+- Experience in services with server and client stream(socket).
 - Experience in FrontEnd devvelopment with Html, Css, Bootstrap and JavaScript.
-- Certificated by Toefl in English Language - B1 in 2020.
+- Experience in AWS Services such as Lambdas, Code Pipeline, RDS, SQS and others.
+- Certificated by Toefl in English Language - B1.
 
 <!---
 CaarlosAugusto/CaarlosAugusto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
